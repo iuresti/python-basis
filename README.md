@@ -195,6 +195,10 @@ def number(parameter):
 
 ### Packages
 
+## Classes
+
+https://docs.python.org/3/tutorial/classes.html
+
 ## Coding style (PEP 8)
 
 * Use 4-space indentation, and no tabs.
@@ -215,9 +219,13 @@ https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
 
 ## Installing python modules  (pip)
 
+python3.6 -m pip install SomePackage
+
+https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
 
 ## Python unit tests
 
+https://docs.python.org/3/library/unittest.html
 
 ## References
 
